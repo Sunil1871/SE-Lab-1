@@ -1,0 +1,5 @@
+Flake8 Static Analysis — After Fixes
+
+Command: `python -m flake8 billing_system.py`
+
+Result: No Flake8 issues were reported for billing_system.py.
